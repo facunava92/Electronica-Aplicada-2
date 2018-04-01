@@ -1,0 +1,12 @@
+\babel@toc {spanish}{}
+\contentsline {chapter}{\numberline {1}Amplificadores Realimentados}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}Tipos de amplificadores}{3}{section.1.1}
+\contentsline {subsection}{Amplificador de Tension}{3}{section*.9}
+\contentsline {subsection}{Amplificador de Corriente}{3}{section*.10}
+\contentsline {subsection}{Amplificador de Transconductancia}{3}{section*.11}
+\contentsline {subsection}{Amplificador de Transresistencia}{3}{section*.12}
+\contentsline {subsection}{Comparacion de amplificadores}{3}{section*.13}
+\contentsline {section}{\numberline {1.2}El amplificador realimentado}{3}{section.1.2}
+\contentsline {section}{\numberline {1.3}Ganancia y Desensibilidad}{3}{section.1.3}
+\contentsline {section}{\numberline {1.4}Tipos de Realimentacion}{3}{section.1.4}
+\contentsline {section}{\numberline {1.5}Impedancias de entrada y salida en realimentados}{4}{section.1.5}
